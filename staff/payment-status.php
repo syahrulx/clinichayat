@@ -1,8 +1,8 @@
 <?php
-// Define the base directory using __DIR__ to get the directory of the current script
+// Define the base directory using __DIR__ to get the directory of the cu
 $baseDir = dirname(__DIR__);
 
-// Include necessary files using absolute paths
+// Include files
 include($baseDir . "/connection.php");
 
 // Update payment status
